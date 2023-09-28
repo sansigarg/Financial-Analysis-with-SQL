@@ -1,4 +1,4 @@
-## Rosas Palas Franchise Accounting Project
+## Financial Accounting Project
 
 **Project Description:**
 
